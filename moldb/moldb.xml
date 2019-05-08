@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<moldb>
+
+  <molecule>
+      <id>1</id>
+      <name>Alanine</name>
+      <symbol>ala</symbol>
+      <code>A</code>
+      <type>hydrophobic</type>
+  </molecule>
+
+  <molecule>
+      <id>2</id>
+      <name>Lysine</name>
+      <symbol>lys</symbol>
+      <code>K</code>
+      <type>charged</type>
+  </molecule>
+
+</moldb>

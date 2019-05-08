@@ -1,0 +1,8 @@
+img/
+json/
+sdf/
+moldb/structures.sdf
+moldb/Compound_000175001_000200000.sdf
+moldb/*.sdf
+*.sdf
+
